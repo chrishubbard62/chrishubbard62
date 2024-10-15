@@ -1,18 +1,14 @@
-<!-- ![alt text](JSmoving.gif "css" width="200" height="150")
-![alt text](PythonMoving.gif "css" width="200" height="150")
-![alt text](HTMLMoving.gif "css" width="200" height="150")
-![alt text](CSSMoving.gif "css" width="200" height="150") -->
-<img src='./JSmoving.gif' width=100px>
-<img src='./PythonMoving.gif' width=100px>
-<img src='./HTMLMoving.gif' width=100px>
-<img src='./CSSMoving.gif' width=100px>
-<img src='./NodeMoving.gif' width=100px>
-<img src='./ReactMoving.gif' width=100px>
-<img src='./GitHubMoving.gif' width=100px>
-<img src='./UbuntuMoving.gif' width=100px>
 
-
-
+<div display=flex >
+  <img src='./JSmoving.gif' width=100px>
+  <img src='./PythonMoving.gif' width=100px>
+  <img src='./HTMLMoving.gif' width=100px>
+  <img src='./CSSMoving.gif' width=100px>
+  <img src='./NodeMoving.gif' width=100px>
+  <img src='./ReactMoving.gif' width=100px>
+  <img src='./GitHubMoving.gif' width=100px>
+  <img src='./UbuntuMoving.gif' width=100px>
+</div>
 
 ``` JAVA
 /* The following has been abstracted for your viewing pleasure. */
